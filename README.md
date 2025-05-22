@@ -20,7 +20,7 @@ Atualmente, estou cursando o Técnico em Desenvolvimento de Sistemas no SENAI, o
 
 Estou cursando o Técnico de Desenvolvimento de Sistemas no SENAI, onde tenho aprendido:
 - **Lógica de Programação e Algoritmos**.
-- ** E também estou  fazendo 2 cursos de Marketing Digital para a venda de Infro Produtos.
+- **E também estou  fazendo 2 cursos de Marketing Digital para a venda de Infro Produtos**.
 
 ## 🎯 Expectativas para o Futuro
 
